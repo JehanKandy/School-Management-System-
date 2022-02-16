@@ -185,6 +185,27 @@
 
         }
 
+        .student_m p {
+            font-size: 220%;
+            font-family: 'Teko', sans-serif;
+        }
+
+        .student_m button {
+            background-color: rgba(0, 168, 56, 0.69);
+            border: none;
+            border-radius: 10%;
+            padding: 20px 45px;
+            font-family: 'Black Han Sans', sans-serif;
+            font-size: larger;
+
+        }
+
+        .student_m button:hover {
+            box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            transform: matrix3d(5px);
+            transition: 0.5s;
+        }
+
         .contact p {
             font-size: 40px;
             font-family: 'Contrail One', cursive;
@@ -393,6 +414,16 @@
         </table>
         <br><br>
         <center>
+            <hr class="hr_down">
+            <br><br>
+            <div class="student_m">
+                <p>
+                    Find Your Student's Term Test Marks
+                </p>
+                <br>
+                <a href="#" target="_blank"><button>Marks</button></a>
+            </div>
+            <br><br>
             <hr class="hr_down">
         </center>
         <br><br>
