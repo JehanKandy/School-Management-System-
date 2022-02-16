@@ -1,9 +1,12 @@
 # School-Management-System-
 School Management System 
 
-******Important**********<br>
-files are still uploading
-*************************<br>
+<br><br>
+**************** Important *********************<br>
+
+files ate still uploading<br>
+
+************************************************<br><br>
 
 
 
