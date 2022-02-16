@@ -105,9 +105,7 @@
                                                 <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
                                             </div>
                                             <button type="submit" class="btn btn-primary">Submit</button>
-                                            <div class="no_account">
-                                                <p>Don't Have an account? <a href="#">Create one</a></p>
-                                            </div>
+
 
                                         </form>
                                     </td>
@@ -126,9 +124,7 @@
                                                 <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
                                             </div>
                                             <button type="submit" class="btn btn-primary">Submit</button>
-                                            <div class="no_account">
-                                                <p>Don't Have an account? <a href="#">Create one</a></p>
-                                            </div>
+
                                         </form>
                                     </td>
                                 </tr>
@@ -157,9 +153,6 @@
                                                 <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
                                             </div>
                                             <button type="submit" class="btn btn-primary">Submit</button>
-                                            <div class="no_account">
-                                                <p>Don't Have an account? <a href="#">Create one</a></p>
-                                            </div>
                                         </form>
                                     </td>
                                 </tr>
