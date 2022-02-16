@@ -4,7 +4,7 @@ School Management System
 <br><br>
 **************** Important *********************<br>
 
-files ate still uploading<br>
+files are still uploading<br>
 
 ************************************************<br><br>
 
